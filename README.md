@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./image-ready.jpg" alt="Falling dev" width="100%" />
+  <img src="./image-ready.png" alt="Falling dev" width="100%" />
 
   <h3>Salut, moi c'est Malo 👋</h3>
   <p>Je développe toutes sortes de projets avec une appétence pour le backend, <b>PHP</b> et <b>Symfony</b>.</p>
